@@ -15,12 +15,16 @@ namespace API.Services
 
         public async Task<IEnumerable<Quote>> GetQuotesAsync()
         {
-            return await _context.Quotes.ToListAsync();
+            return await _context.Quotes
+            .Include(q => q.Supplier)
+            .ToListAsync();
         }
 
         public async Task<Quote> GetQuoteByIdAsync(int id)
         {
-            return await _context.Quotes.FindAsync(id);
+            return await _context.Quotes
+            .Include(q => q.Supplier)
+            .FirstOrDefaultAsync(q => q.Id == id);
         }
 
         public async Task AddQuoteAsync(Quote quote)

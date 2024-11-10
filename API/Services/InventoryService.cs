@@ -15,12 +15,18 @@ namespace API.Services
 
         public async Task<IEnumerable<Inventory>> GetInventoriesAsync()
         {
-            return await _context.Inventories.ToListAsync(); 
+            return await _context.Inventories
+            .Include(i => i.Supplier)
+            .Include(i => i.InventoryProducts)
+            .ToListAsync();
         }
 
         public async Task<Inventory> GetInventoryByIdAsync(int id)
         {
-            return await _context.Inventories.FindAsync(id);
+            return await _context.Inventories
+            .Include(i => i.Supplier)
+            .Include(i => i.InventoryProducts)
+            .FirstOrDefaultAsync(i => i.Id == id);
         }
 
         public async Task AddInventoryAsync(Inventory inventory)

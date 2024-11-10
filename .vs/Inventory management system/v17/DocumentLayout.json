@@ -3,64 +3,28 @@
   "WorkspaceRootPath": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\models\\inventoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\models\\inventoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\interfaces\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\interfaces\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\interfaces\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\interfaces\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|d:\\new folder\\projects\\inventory management system\\be\\inventory management system\\api\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4428E2-B0FC-4096-9074-F10AB6A27661}|API\\API.csproj|solutionrelative:api\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,198 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "API\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\ApplicationDbContext.cs",
-              "RelativeToolTip": "API\\ApplicationDbContext.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:35:46.585Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SupplierService.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Services\\SupplierService.cs",
-              "RelativeDocumentMoniker": "API\\Services\\SupplierService.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Services\\SupplierService.cs",
-              "RelativeToolTip": "API\\Services\\SupplierService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:58:28.926Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ISupplierService.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Interfaces\\ISupplierService.cs",
-              "RelativeDocumentMoniker": "API\\Interfaces\\ISupplierService.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Interfaces\\ISupplierService.cs",
-              "RelativeToolTip": "API\\Interfaces\\ISupplierService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:40:45.59Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SuppliersController.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Controllers\\SuppliersController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\SuppliersController.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Controllers\\SuppliersController.cs",
-              "RelativeToolTip": "API\\Controllers\\SuppliersController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T16:00:10.3Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "InventoryProduct.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Models\\InventoryProduct.cs",
-              "RelativeDocumentMoniker": "API\\Models\\InventoryProduct.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Models\\InventoryProduct.cs",
-              "RelativeToolTip": "API\\Models\\InventoryProduct.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:07:45.27Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "API\\Models\\Product.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Models\\Product.cs",
-              "RelativeToolTip": "API\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:03:59.043Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Inventory.cs",
               "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Models\\Inventory.cs",
               "RelativeDocumentMoniker": "API\\Models\\Inventory.cs",
               "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Models\\Inventory.cs",
               "RelativeToolTip": "API\\Models\\Inventory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T09:08:44.466Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuotesController.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Controllers\\QuotesController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\QuotesController.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Controllers\\QuotesController.cs",
-              "RelativeToolTip": "API\\Controllers\\QuotesController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAADgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T06:14:04.762Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Quote.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Models\\Quote.cs",
-              "RelativeDocumentMoniker": "API\\Models\\Quote.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Models\\Quote.cs",
-              "RelativeToolTip": "API\\Models\\Quote.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T16:02:06.929Z",
-              "IsPinned": true
+              "WhenOpened": "2024-11-10T15:31:59.67Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Models\\Supplier.cs",
-              "RelativeDocumentMoniker": "API\\Models\\Supplier.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Models\\Supplier.cs",
-              "RelativeToolTip": "API\\Models\\Supplier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\InventoryService.cs",
+              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Services\\InventoryService.cs",
+              "RelativeToolTip": "API\\Services\\InventoryService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T09:08:56.631Z",
-              "IsPinned": true
+              "WhenOpened": "2024-11-10T15:31:46.304Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-10T06:38:50.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAiwB4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T06:43:19.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "InventoriesController.cs",
               "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Controllers\\InventoriesController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\InventoriesController.cs",
               "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Controllers\\InventoriesController.cs",
               "RelativeToolTip": "API\\Controllers\\InventoriesController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAADgAAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T06:13:10.81Z"
+              "WhenOpened": "2024-11-10T15:44:34.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\SupplierService.cs",
+              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Services\\SupplierService.cs",
+              "RelativeToolTip": "API\\Services\\SupplierService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:49:10.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "QuoteService.cs",
               "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Services\\QuoteService.cs",
               "RelativeDocumentMoniker": "API\\Services\\QuoteService.cs",
               "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Services\\QuoteService.cs",
               "RelativeToolTip": "API\\Services\\QuoteService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAA2AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T16:03:40.942Z"
+              "WhenOpened": "2024-11-10T18:46:55.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IQuoteService.cs",
-              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Interfaces\\IQuoteService.cs",
-              "RelativeDocumentMoniker": "API\\Interfaces\\IQuoteService.cs",
-              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Interfaces\\IQuoteService.cs",
-              "RelativeToolTip": "API\\Interfaces\\IQuoteService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "DocumentIndex": 2,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\SuppliersController.cs",
+              "ToolTip": "D:\\New folder\\Projects\\Inventory management system\\BE\\Inventory management system\\API\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "API\\Controllers\\SuppliersController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T16:02:54.632Z"
+              "WhenOpened": "2024-11-10T18:42:27.968Z",
+              "EditorCaption": ""
             }
           ]
         }

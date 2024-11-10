@@ -15,12 +15,18 @@ namespace API.Services
 
         public async Task<IEnumerable<Supplier>> GetSuppliersAsync()
         {
-            return await _context.Suppliers.ToListAsync();
+            return await _context.Suppliers
+            .Include(s => s.Inventory)
+            .Include(s => s.Quotes)
+            .ToListAsync();
         }
 
         public async Task<Supplier> GetSupplierByIdAsync(int id)
         {
-            return await _context.Suppliers.FindAsync(id);
+            return await _context.Suppliers
+            .Include(s => s.Inventory)
+            .Include(s => s.Quotes)
+            .FirstOrDefaultAsync(s => s.Id == id);
         }
 
         public async Task AddSupplierAsync(Supplier supplier)

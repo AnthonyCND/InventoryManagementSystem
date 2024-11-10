@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class InventoriesController : ControllerBase
     {
         private readonly IInventoryService _inventoryService;
